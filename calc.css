@@ -1,0 +1,18 @@
+td,input{
+    color: #ff3dbe;
+    
+      } 
+  span{
+    color: #ff3dbe;
+   
+      }
+      form,
+  table{
+    color: #ff3dbe;
+     
+      }
+  table {
+     border: 1px solid #fb07d3;
+       border-radius: 1%;  
+       text-align: center;
+       } 
